@@ -1,0 +1,18 @@
+{
+    "presets": [
+        ["minify"],
+        [
+            "@babel/preset-env",
+            {
+                "targets": {
+                    "chrome": "45",
+                    "edge": "12",
+                    "firefox": "45",
+                    "ie": "11",
+                    "safari": "9"
+                }
+            }
+        ]
+    ],
+    "plugins": []
+}
