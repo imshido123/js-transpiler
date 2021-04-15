@@ -14,5 +14,8 @@
     "@babel/core": "^7.13.1",
     "@babel/preset-env": "^7.13.5",
     "babel-preset-minify": "^0.5.1"
+  },
+  "dependencies": {
+    "readdirp": "^3.6.0"
   }
 }
