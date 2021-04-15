@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "friendly": "babel input.js -o ./dist/output.js"
+    "friendly": "node index"
   },
   "keywords": [],
   "author": "",
